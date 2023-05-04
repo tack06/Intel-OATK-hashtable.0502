@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcider_hashtable.a CMakeFiles/cider_hashtable.dir/interpreters/AggregationHashTable.o CMakeFiles/cider_hashtable.dir/base/StringRef.o
+/usr/bin/ranlib libcider_hashtable.a
